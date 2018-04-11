@@ -1,4 +1,4 @@
-# Tutorial GitHub terminal
+# Tutorial GitHub Online
 
 ### 1.- Primero debes ir al repositorio en el que quieras contribuir.
 

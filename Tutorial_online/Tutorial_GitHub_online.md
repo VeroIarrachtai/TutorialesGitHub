@@ -18,12 +18,16 @@ Para ello puedes:
 
 Para ello puedes:
 
-* Ir al directorio donde deseas realizar los cambios y editar un archivo
+* Ir al directorio donde deseas realizar los cambios y editar un archivo. Dando click en el lápiz.
 
 ![](editar_archivo.png)
 
-o puedes agregar imagenes, archivos, directorios, etc.
+* O puedes agregar imagenes, archivos, directorios, etc. Dando click en upload files.
 
-![](agregar_archivo.png)
+![](agregar_archivos.png)
 
-Para mantener actualizado un repositorio forkeado debes:
+### 4.- Mantener actualizado un repositorio forkeado.
+
+Para ello debes:
+
+Comentar y participar en la edición de ese repositorio. También puedes eliminar el repositorio y volver a copiarlo (fork).
